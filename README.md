@@ -1,8 +1,9 @@
 # Ridge Runner — a flight game over the valley
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-7c5cff)](https://make.fun/c/best-flight-game-20261126-0057)
+[![make.fun · best-flight-game-20261126-0057](https://make.fun/badge/best-flight-game-20261126-0057.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![rank](https://make.fun/badge/best-flight-game-20261126-0057/Blupanda04/flight-game-01/rank.svg)](https://make.fun/bounty/best-flight-game-20261126-0057/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
+[![reward](https://make.fun/badge/best-flight-game-20261126-0057/Blupanda04/flight-game-01/reward.svg)](https://make.fun/bounty/best-flight-game-20261126-0057?utm_source=github&utm_medium=readme&utm_campaign=best-flight-game-20261126-0057)
 [![referral](https://img.shields.io/badge/make.fun-referral-dh0myx29-blue)](https://make.fun/r/dh0myx29)
-[![Blupanda04](https://img.shields.io/badge/github-Blupanda04-181717?logo=github)](https://github.com/Blupanda04/flight-game-01)
 
 A complete flight game that runs in a desktop browser from its own files — no library, no network. Chase view over a procedural valley: climb, bank, thread the rings, mind the fuel, and bring her home.
 
